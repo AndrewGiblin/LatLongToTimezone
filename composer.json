@@ -3,5 +3,12 @@
     "description": "Lat/long to timezone mapper in PHP. Does not require web services or data files. Ported from the Java",
     "type": "library",
     "license": "MIT",
-    "require": {}
+	"require": {
+		"php": ">=5.3.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"src\\andrewgiblin\\TimeZone\\": "TimeZoneMapper55km"
+		}
+	}
 }
