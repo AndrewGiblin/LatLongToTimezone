@@ -3,5 +3,6 @@
     "description": "Lat/long to timezone mapper in PHP. Does not require web services or data files. Ported from the Java",
     "type": "library",
     "license": "MIT",
-    "require": {}
+    "require": {},
+    "version": "1.0.0"
 }
