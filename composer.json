@@ -8,7 +8,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"src\\andrewgiblin\\TimeZone\\": "TimeZoneMapper55km"
+			"andrewgiblin\\": "src"
 		}
 	}
 }
