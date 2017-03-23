@@ -1,6 +1,6 @@
 <?php
 
-namespace TimeZone;
+namespace andrewgiblin\TimeZone;
 
 /**
  * Mapping lat/long to timezones (55km accuracy at worst)
