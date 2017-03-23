@@ -5,9 +5,12 @@ namespace andrewgiblin\TimeZone;
 /**
  * Mapping lat/long to timezones (55km accuracy at worst)
  *
- * https://sites.google.com/a/edval.biz/www/mapping-lat-lng-s-to-timezones
+ * Class TimeZoneMapper55km
  *
- * source: TimeZoneMapper.55km.java
+ * @package andrewgiblin\TimeZone
+ * @author Andrew Giblin
+ * @license MIT
+ * @link https://github.com/AndrewGiblin/LatLongToTimezone
  */
 class TimeZoneMapper55km
 {
